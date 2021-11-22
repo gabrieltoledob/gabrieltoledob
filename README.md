@@ -1,4 +1,4 @@
-### Ola, sou o Gabriel Toledo, mas pode me chamar de Toledo!
+### Ola, me chamo Gabriel Toledo, mas pode me chamar de Toledo!
 
 <div align="center">
   <a href="https://github.com/gabrieltoledob">
